@@ -32,9 +32,9 @@ Visualization and Analysis
 
 ## PROGRAM
 
-### Name: EZHIL NEVEDHA K
+### Name: PULI NAGA NEERAJ
 
-### Register Number: 212223230055
+### Register Number: 212223240130
 
 ```python
 import torch
